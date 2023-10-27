@@ -2,6 +2,8 @@ OK, so let’s suppose that we express the coordinates of a body as a quaternion
 
 Then we can write:
 
+(and this is a simple piece of text to see if git will detect the change!)
+
 $$\mathbf{r}(t) = \mathcal{Q}(t)\,\mathbf{k}\,\mathcal{Q}^\dagger(t)$$
 
 (This obviously give us an extra degree of freedom but, for the moment, let’s roll with it. - we will resolve this with the bilinear condition as set out below)
